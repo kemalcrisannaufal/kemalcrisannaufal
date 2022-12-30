@@ -9,7 +9,8 @@ kemalcrisannaufal/kemalcrisannaufal is a ✨ special ✨ repository because its 
 You can click the Preview link to take a look at your changes.
 --->
 
-### Hi there 👋 my name Kemal Crisannaufal
+### Hi there 👋 my name Kemal Crisannaufal, I am a undergraduate atudent at Telkom University, Indonesia
+
 
 
 ### Programming Languages 🌐
