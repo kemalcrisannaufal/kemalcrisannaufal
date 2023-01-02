@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 ### Hi there 	:wave: my name is Kemal Crisannaufal
 
-- 👨🏽‍💻 I’m currently a Undergrad student at Telkom University, Indonesia
+- 👨🏽‍💻 I’m currently a student at Telkom University, Indonesia
 - 🌱 I’m currently exploring Data Structures and Algorithms. 
 - 📫 Email me at [kemalcrisannnaufal@gmail.com](mailto:kemalcrisannnaufal@gmail.com)
 
