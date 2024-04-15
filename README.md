@@ -1,30 +1,36 @@
-<!-- - 👋 Hi, I’m @kemalcrisannaufal
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... -->
-
-<!---
-kemalcrisannaufal/kemalcrisannaufal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
 # Hi there 👋 my name is Kemal Crisannaufal
 
 - 👨🏽‍💻 I’m currently a student at Telkom University, Indonesia
-- 🌱 I’m currently exploring Software Enginnering, Object Oriented and Machine Learning. 
+- 🌱 I’m currently exploring Software Enginnering, Object Oriented, Machine Learning, and Image Processing. 
 - 📫 Email me at [kemalcrisannnaufal@gmail.com](mailto:kemalcrisannnaufal@gmail.com)
 
 ## Programming Languages 🌐
 
- [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/golang.png" alt="go logo" width="38">](https://golang.org/)   [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp logo" width="24">](https://isocpp.org/)    [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python logo" width="28">](https://www.python.org/)  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="java logo" width="32">](https://www.google.com/url?sa=i&url=https%3A%2F%2F1000logos.net%2Fjava-logo%2F&psig=AOvVaw2mdTwmbql-JJSmkHBeABV_&ust=1703863819175000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNiOn7-5soMDFQAAAAAdAAAAABAE)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sql&logoColor=white)
 
- 
 ## Basic Skills 🏷️
  📌 Problem Solving (Intermediate)  
  📌 Teamwork
+ 📌 Analysis
+ 
+<p align="center">
+  <a href="https://github.com/kemalcrisannaufal">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=kemalcrisannaufal&show_icons=true&theme=radical" />
+  </a>
+  <a href="https://github.com/kemalcrisannaufal">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kemalcrisannaufal&layout=compact" />
+  </a>
+</p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kemalcrisannaufal&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kemalcrisannaufal&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
