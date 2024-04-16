@@ -1,7 +1,7 @@
 # Hi there 👋 my name is Kemal Crisannaufal
 
 - 👨🏽‍💻 I’m currently a student at Telkom University, Indonesia
-- 🌱 I’m currently exploring Software Enginnering, Object Oriented, Machine Learning, and Image Processing. 
+- 🌱 I’m currently exploring Software Engineering, Object Oriented, Machine Learning, and Image Processing. 
 - 📫 Email me at [kemalcrisannnaufal@gmail.com](mailto:kemalcrisannnaufal@gmail.com)
 
 ## Programming Languages 🌐
