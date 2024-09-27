@@ -3,7 +3,7 @@
 - 👨🏽‍💻 I’m currently a student at Telkom University, Indonesia
 - 🌱 I’m currently exploring Software Engineering, Object Oriented, Machine Learning, and Image Processing. 
 - 📫 Email me at [kemalcrisannnaufal@gmail.com](mailto:kemalcrisannnaufal@gmail.com)
-- Visit : https://kemalcrisannaufal.vercel.app/
+- Visit : https://kemalcrisannaufal.vercel.app/ or https://kemalcrisannaufal-v2.vercel.app/
 
 ## Programming Languages 🌐
 
