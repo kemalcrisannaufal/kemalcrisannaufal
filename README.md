@@ -29,7 +29,7 @@
 
 ## Basic Skills 🏷️
  📌 Problem Solving (Intermediate)  
- 📌 Teamwork
+ 📌 Teamwork  
  📌 Analysis
  
 <p align="center">
